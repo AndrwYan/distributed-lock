@@ -1,6 +1,6 @@
-package com.example.lockspringbootstarter.config;
+package com.demo.lockspringbootstarter.config;
 
-import com.example.lockspringbootstarter.lock.manager.LockFactory;
+import com.demo.lockspringbootstarter.lock.manager.LockFactory;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 

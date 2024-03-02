@@ -1,4 +1,4 @@
-package com.example.lockspringbootstarter.lock;
+package com.demo.lockspringbootstarter.lock;
 
 
 import org.springframework.data.redis.core.StringRedisTemplate;

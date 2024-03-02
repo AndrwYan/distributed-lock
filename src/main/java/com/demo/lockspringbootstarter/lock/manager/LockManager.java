@@ -1,7 +1,6 @@
-package com.example.lockspringbootstarter.lock.manager;
+package com.demo.lockspringbootstarter.lock.manager;
 
-import com.example.lockspringbootstarter.lock.AbstractLock;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.demo.lockspringbootstarter.lock.AbstractLock;
 
 import javax.annotation.Resource;
 

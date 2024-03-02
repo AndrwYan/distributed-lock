@@ -1,7 +1,7 @@
-package com.example.lockspringbootstarter.config;
+package com.demo.lockspringbootstarter.config;
 
-import com.example.lockspringbootstarter.lock.manager.LockFactory;
-import com.example.lockspringbootstarter.lock.manager.LockManager;
+import com.demo.lockspringbootstarter.lock.manager.LockFactory;
+import com.demo.lockspringbootstarter.lock.manager.LockManager;
 import io.etcd.jetcd.Client;
 import org.apache.zookeeper.ZooKeeper;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

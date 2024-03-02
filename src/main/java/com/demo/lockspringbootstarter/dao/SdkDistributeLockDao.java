@@ -1,4 +1,4 @@
-package com.example.lockspringbootstarter.dao;
+package com.demo.lockspringbootstarter.dao;
 
 
 import org.apache.ibatis.annotations.*;

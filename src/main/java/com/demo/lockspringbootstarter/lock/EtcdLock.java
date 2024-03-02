@@ -1,4 +1,4 @@
-package com.example.lockspringbootstarter.lock;
+package com.demo.lockspringbootstarter.lock;
 
 import io.etcd.jetcd.ByteSequence;
 import io.etcd.jetcd.Client;
