@@ -1,4 +1,4 @@
-package com.demo.lockspringbootstarter;
+package com.example.lockspringbootstarter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

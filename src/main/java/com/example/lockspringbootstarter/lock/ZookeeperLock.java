@@ -1,4 +1,4 @@
-package com.demo.lockspringbootstarter.lock;
+package com.example.lockspringbootstarter.lock;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;

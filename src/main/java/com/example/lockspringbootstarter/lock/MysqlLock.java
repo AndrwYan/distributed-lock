@@ -1,6 +1,6 @@
-package com.demo.lockspringbootstarter.lock;
+package com.example.lockspringbootstarter.lock;
 
-import com.demo.lockspringbootstarter.dao.SdkDistributeLockDao;
+import com.example.lockspringbootstarter.dao.SdkDistributeLockDao;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.transaction.TransactionDefinition;
 import org.springframework.transaction.TransactionStatus;

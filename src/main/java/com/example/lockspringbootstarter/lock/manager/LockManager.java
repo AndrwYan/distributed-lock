@@ -1,6 +1,6 @@
-package com.demo.lockspringbootstarter.lock.manager;
+package com.example.lockspringbootstarter.lock.manager;
 
-import com.demo.lockspringbootstarter.lock.AbstractLock;
+import com.example.lockspringbootstarter.lock.AbstractLock;
 
 import javax.annotation.Resource;
 

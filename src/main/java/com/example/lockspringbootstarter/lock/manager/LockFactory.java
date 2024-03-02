@@ -1,7 +1,7 @@
-package com.demo.lockspringbootstarter.lock.manager;
+package com.example.lockspringbootstarter.lock.manager;
 
-import com.demo.lockspringbootstarter.dao.SdkDistributeLockDao;
-import com.demo.lockspringbootstarter.lock.*;
+import com.example.lockspringbootstarter.dao.SdkDistributeLockDao;
+import com.example.lockspringbootstarter.lock.*;
 import io.etcd.jetcd.Client;
 import org.apache.zookeeper.ZooKeeper;
 import org.springframework.data.redis.core.StringRedisTemplate;

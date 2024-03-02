@@ -1,4 +1,4 @@
-package com.demo.lockspringbootstarter;
+package com.example.lockspringbootstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
